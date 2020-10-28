@@ -1,4 +1,5 @@
 /*
+# 계단을 하나 혹은 두 개씩 오를 수 있을 때, N개의 계단을 오를 수 있는 경우의 수를 구하는 문제
 leetcode 70. Climbing Stairs
 
 You are climbing a stair case. It takes n steps to reach to the top.

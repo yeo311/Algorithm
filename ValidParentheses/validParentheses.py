@@ -1,3 +1,4 @@
+# 괄호가 문법에 맞게 올바르게 닫혔는 지 확인하는 문제
 # Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 # An input string is valid if:

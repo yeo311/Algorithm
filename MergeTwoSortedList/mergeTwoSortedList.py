@@ -1,3 +1,4 @@
+# 두 개의 정렬된 리스트를 합쳐서 정렬된 리스트로 반환
 # Merge two sorted linked lists and return it as a new sorted list. The new list should be made by splicing together the nodes of the first two lists.
 
 # Example 1:
